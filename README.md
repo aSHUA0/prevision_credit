@@ -19,7 +19,6 @@ decisões mais assertivas.
 
 ```bash
 git clone https://github.com/aSHUA0/prevision_credit.git
-cd sistema-biblioteca
 ```
 
 2. Navegue até o diretório do projeto:
