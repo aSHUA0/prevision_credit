@@ -47,6 +47,6 @@ A avaliação foi feita com métricas como Acurácia, Precisão, Recall e F1-Sco
 
 ## Colaboladores
 
-@Arthur-Faria-dos-Santos
-@ArturVivacqua
-@aSHUA0
+- [@aSHUA0](https://github.com/aSHUA0)
+- [@ArturVivacqua](https://github.com/ArturVivacqua)
+- [Arthur-Faria-dos-Santos](https://github.com/Arthur-Faria-dos-Santos)
