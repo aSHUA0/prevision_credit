@@ -26,7 +26,6 @@ cd sistema-biblioteca
 
 ```bash
 cd prevision_credit
-pip install -r requirements.txt
 ```
 
 3. Instale as dependências:
