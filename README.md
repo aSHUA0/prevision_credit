@@ -45,4 +45,8 @@ Os dados foram pré-processados e utilizados para treinar modelos de classifica�
 
 A avaliação foi feita com métricas como Acurácia, Precisão, Recall e F1-Score.
 
-## Colaboladorer
+## Colaboladores
+
+@Arthur-Faria-dos-Santos
+@ArturVivacqua
+@aSHUA0
